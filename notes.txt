@@ -1,0 +1,10 @@
+<item>
+<title></title>
+<description>
+Как получить дорогостоящие лекарства для детей, поддержка государства и давление фармкомпаний — Александр Ткаченко
+<a href="https://life.ru/v/14345">Смотреть</a>
+</description>
+<link>https://life.ru/v/14345</link>
+<guid>https://life.ru/v/14345</guid>
+<enclosure url="https://static.life.ru/publications/2021/3/28/498969101238.307-300x.jpeg"/>
+</item>
