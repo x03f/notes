@@ -8,8 +8,8 @@
 <title>«Life.ru» — информационный портал</title>
 <link>https://life.ru</link>
 </image>
-<lastBuildDate>Thu, 29 Apr 2021 16:23:01 GMT</lastBuildDate>
-<pubDate>Thu, 29 Apr 2021 16:23:01 GMT</pubDate>
+<lastBuildDate>Tue, 25 May 2021 18:33:11 GMT</lastBuildDate>
+<pubDate>Tue, 25 May 2021 18:33:11 GMT</pubDate>
 <language>ru</language>
 <item>
 	<title>Политическое шоу — "Дайте сказать!"</title>
@@ -23,7 +23,7 @@
 	<category></category>
 	<category></category>
 	<category></category>
-	<enclosure url="https://static.life.ru/publications/2021/3/28/498969101238.307-300x.jpeg" length="0" type="image/jpeg"/>
+	<enclosure url="https://static.life.ru/publications/2021/3/28/498969101238.307-600x.jpeg" length="0" type="image/jpeg"/>
 </item>
 <item>
 	<title>Политическое шоу —  "Дайте сказать!"</title>
@@ -37,7 +37,21 @@
 	<category></category>
 	<category></category>
 	<category></category>
-	<enclosure url="https://static.life.ru/publications/2021/3/23/518627137496.2111-300x.jpeg" length="0" type="image/jpeg"/>
+	<enclosure url="https://static.life.ru/publications/2021/3/23/518627137496.2111-600x.jpeg" length="0" type="image/jpeg"/>
+</item>
+<item>
+	<title>Политическое шоу —  "Дайте сказать!"</title>
+	<description>
+Волонтёры идут в Госдуму, инициативы поддержки молодёжи и развитие фудшеринга — Артём Метелев 
+		<a href="https://life.ru/v/14572">Смотреть</a>
+	</description>
+	<link>https://life.ru/v/14572</link>
+	<guid>https://life.ru/v/14572</guid>
+	<pubDate>Tue, 25 May 2021 18:30:46 GMT</pubDate>
+	<category></category>
+	<category></category>
+	<category></category>
+	<enclosure url="https://static.life.ru/publications/2021/4/21/327215011871.21954-600x.jpeg" length="0" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
